@@ -1,2 +1,2 @@
 # tehakdem oskar-maspisni 
-# kaszem opitsus traznekni
+kaszem opitsus traznekni
